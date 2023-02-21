@@ -4,3 +4,5 @@ train_x_list.pkl
 .vector_cache
 glove.840B.300d.txt.pt
 glove.840B.300d
+
+cooc.zip
